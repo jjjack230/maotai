@@ -12,6 +12,13 @@ IDA Pro：静态分析
 Charles：抓包工具
 
 Shadowrocket：小火箭，配合Charles使用 
+抢茅台脚本代码相关-2024-08-10更新：    
+<img src="https://github.com/jjjack230/maotai/blob/main/maotai1.png" alt="茅台脚本1" width="300" >  
 
+抢茅台脚本代码相关-2024-08-10更新：    
+<img src="https://github.com/jjjack230/maotai/blob/main/maotai2.png" alt="茅台脚本1" width="300" >  
+
+抢茅台脚本代码相关-2024-08-10更新：    
+<img src="https://github.com/jjjack230/maotai/blob/main/maotai3.png" alt="茅台脚本1" width="300" >  
 
 
