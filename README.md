@@ -22,7 +22,7 @@ Shadowrocket：小火箭，配合Charles使用
 <img src="http://www.daydayup365.top/github2/maotai3.png" alt="茅台脚本3" width="300" >  
   
 抢茅台:  
-<img src="http://www.daydayup365.top/github2/maotai4.png" alt="茅台脚本4" width="300" >  
+<img src="https://github.com/jjjack230/maotai/blob/main/maotai4.png" alt="茅台脚本4" width="300" >  
 
 抢茅台 iqmaotai， i茅台app 自动预约 抢茅台，天猫超市，茅台抢票功能，chrome插件，提高成功率，苏宁易购，秒杀茅台，葫芦娃，青龙脚本，淘宝、天猫半价抢购，抢电视、抢茅台， i茅台Mt-R，mt-r ，Mt-V，actParam算法，京东app，h5st4.7参数，羊毛，副业，额外渠道，聚划算、百亿补贴等多种活动，抢购页面、购物车、BP链接和捡漏，百大悦购，
 500ml 的 53 度飞天茅台市场回收价 2700-2800 ，商超抢购价 1499 ，百亿补贴 2650 左右减去各类优惠券， 特产平台买 700 特产换取 700 积分，然后 700 积分 + 1499 购买一瓶。平均一瓶酒的利润 1000-1300。 因此很多人加入抢购大军，毕竟转手就是大几百。
