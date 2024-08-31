@@ -2,9 +2,9 @@
 茅台，抢茅台，imaotai，maotai，京东，天猫，淘宝，闲鱼，拼多多，抢茅台技术，技术交流，破解，脚本，黑客，自动抢茅台，auto，科技，i茅台       
 京东茅台抢购神器,京东茅台抢购最新优化版本，京东秒杀,茅台脚本分享研究，茅台预约，茅台抢购，茅台购买研究 代码 柯基，分享脚本   
 本裙有人维护的群，做到无广告，群内抢茅台行业内人士，平等沟通，获取即时抢购策略，风控信息。
-维护群社区需花很多时间相当不易，请务必谨慎发言，以持续运营本公益社群。
+维护群社区需花很多时间相当不易，请务必谨慎发言，以持续运营本公益社群。  
 本社区旨在交流抢茅台的柯基科技、业务、技术、开发问题（jd京东 淘宝 拼多多 酱香 茅台风控，逆向，加解密，黑号，秒杀等）等行业热点，以及搞钱经验。  
-入群需给本项目一个star后方可入群。  
+入群需给本项目一个star后方可入群。    
 QQ群：892831672 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=xUNG6YQRUZyaHyXV4DKCQxGemeAR25OX&jump_from=webapi&authKey=wLTihRjPFHPth9fRtIZJTmkR7IDYI32Dk7t0y6Oy7GjDfIQo6cFeRIHOkD6cg1dC"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="茅台抢购脚本技术研究" title="茅台抢购脚本技术研究"></a>   
 
 frida-ios-dump：砸壳
