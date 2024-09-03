@@ -36,7 +36,7 @@ Shadowrocket：小火箭，配合Charles使用
 <img src="http://www.daydayup365.top/github2/maotai3.png" alt="茅台脚本3" width="300" >  
   
 抢茅台:  
-<img src="https://github.com/jjjack230/maotai/blob/main/maotai4.png" alt="茅台脚本4" width="300" >  
+<img src="http://www.daydayup365.top/github2/maotai4.png" alt="茅台脚本4" width="300" >  
 
 抢茅台 iqmaotai， i茅台app 自动预约 抢茅台，天猫超市，茅台抢票功能，chrome插件，提高成功率，苏宁易购，秒杀茅台，葫芦娃，青龙脚本，淘宝、天猫半价抢购，抢电视、抢茅台， i茅台Mt-R，mt-r ，Mt-V，actParam算法，京东app，h5st4.7参数，羊毛，副业，额外渠道，聚划算、百亿补贴等多种活动，抢购页面、购物车、BP链接和捡漏，百大悦购  
 #### 关于抢茅台  
