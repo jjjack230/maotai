@@ -11,7 +11,7 @@
 免费的群往往是广告横行，本群不会出现。     
 入群需捐助社区 ¥1.23，并给本项目一个star后方可入群。    </strong>    
 
-<img src="http://www.daydayup365.top/github/pay-wx1-min2.png" alt="微信支付1" width="300" >    
+<img src="http://www.daydayup365.top/github/pay-wx1-min2.jpg" alt="微信支付1" width="300" >    
   
 群内文件:  
 <img src="http://www.daydayup365.top/github2/group_files.png" alt="茅台群文件" width="300" >  
